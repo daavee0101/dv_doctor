@@ -1,5 +1,7 @@
 # dv_doctor
 
+[ESX 1.2]
+
 - ESX NPC Doctor for roleplay servers
 
 - Configurable in config.lua
