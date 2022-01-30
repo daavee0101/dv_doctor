@@ -1,6 +1,6 @@
 # dv_doctor
 
-## [ESX 1.2]
+## [ESX Legacy]
 
 - ESX NPC Doctor for roleplay servers
 
